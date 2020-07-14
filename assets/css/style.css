@@ -1,9 +1,3 @@
-/**
-* Template Name: Bikin - v2.1.0
-* Template URL: https://bootstrapmade.com/bikin-free-simple-landing-page-template/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-*/
 
 /*--------------------------------------------------------------
 # General
@@ -128,7 +122,7 @@ h1, h2, h3, h4, h5, h6 {
   line-height: 1;
   font-weight: 400;
   letter-spacing: 1px;
-  font-family: "Quicksand", sans-serif;
+  font-family: 'Raleway', sans-serif;
 }
 
 #header .logo a {
