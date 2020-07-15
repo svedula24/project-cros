@@ -1,7 +1,14 @@
+/**
+* Template Name: Bikin - v2.1.0
+* Template URL: https://bootstrapmade.com/bikin-free-simple-landing-page-template/
+* Author: BootstrapMade.com
+* License: https://bootstrapmade.com/license/
+*/
 
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
+
 body {
   font-family: "Varela", sans-serif;
   color: #444444;
@@ -94,6 +101,7 @@ h1, h2, h3, h4, h5, h6 {
     transform: rotate(360deg);
   }
 }
+
 
 /*--------------------------------------------------------------
 # Disable aos animation delay on mobile devices
@@ -1213,8 +1221,8 @@ section {
   content: "\eab2" !important;
 }
 ::selection {
-    background-color: #FEE0AB;
-    color: black;
+    background-color: #000;
+    color: white;
 }
 
 /*--------------------------------------------------------------
