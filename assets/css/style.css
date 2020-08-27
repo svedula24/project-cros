@@ -975,6 +975,7 @@ section {
 # Team
 --------------------------------------------------------------*/
 .team {
+  text-align: center;
   background: #fff;
   padding: 60px 0;
 }
